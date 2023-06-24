@@ -21,6 +21,8 @@ However, they are not scared of death (The Stream) itself. What happened did not
 
 *I am not scared of The Stream. I think it's beautiful. Or, it should be. I just experienced something that wasn't The Stream, and it felt wrong. I need to find out why.
 
+who killed me?
+
 **Name**: Aainaye
 **Appearance**: Skeleton
 **Gender**: Unknown
