@@ -120,13 +120,29 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "17eed5ef1e001bdc",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "17c1c7cca8aa3188",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,6 +156,13 @@
   },
   "active": "71d88cff4f19d144",
   "lastOpenFiles": [
+    "Oroboros/Oroboros DND/Characters/Rishi.md",
+    "Oroboros/Oroboros DND/Characters/Lakshmi.md",
+    "Oroboros/Oroboros DND/Characters/Aainaye.md",
+    "Oroboros/Oroboros DND/Characters",
+    "Oroboros/Aainaye Character.pdf",
+    "Oroboros/Oroboros DND",
+    "Oroboros",
     "Future-Project"
   ]
 }
