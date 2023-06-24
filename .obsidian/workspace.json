@@ -14,8 +14,21 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "fe4decdb711c6c05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian git help.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,33 +89,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01f56de828fc776c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5ef16927c70d1a5f",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "9e50398ad8032ff6",
             "type": "leaf",
             "state": {
@@ -114,22 +100,6 @@
             }
           },
           {
-            "id": "4b2b9b4b4259722e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "17eed5ef1e001bdc",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
-          },
-          {
             "id": "17c1c7cca8aa3188",
             "type": "leaf",
             "state": {
@@ -138,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -154,8 +124,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71d88cff4f19d144",
+  "active": "17c1c7cca8aa3188",
   "lastOpenFiles": [
+    "Obsidian git help.md",
     "Oroboros/Oroboros DND/Characters/Lakshmi.md",
     "Aainaye Character.pdf",
     "Oroboros DND/Characters/Rishi.md",
