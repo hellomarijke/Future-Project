@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian git help.md",
+                "file": "Oroboros DND/Characters/Aainaye.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Oroboros DND/Characters/Aainaye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Oroboros DND/Characters/Aainaye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Oroboros DND/Characters/Aainaye.md"
+              }
             }
           }
         ],
@@ -159,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17c1c7cca8aa3188",
+  "active": "fe4decdb711c6c05",
   "lastOpenFiles": [
     "Obsidian git help.md",
     "Oroboros/Oroboros DND/Characters/Lakshmi.md",
