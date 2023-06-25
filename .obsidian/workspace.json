@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About death 1.md",
+                "file": "Oroboros DND/Death/About death 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About death 2.md",
+                "file": "Oroboros DND/Death/About death 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Stream.md",
+                "file": "Oroboros DND/Death/The Stream.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Stream.md",
+                "file": "Oroboros DND/Death/The Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Stream.md",
+                "file": "Oroboros DND/Death/The Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Stream.md"
+                "file": "Oroboros DND/Death/The Stream.md"
               }
             }
           }
@@ -199,12 +199,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ed9fc2706668b1a",
+  "active": "6c8141b6920d2502",
   "lastOpenFiles": [
+    "Oroboros DND/Death",
+    "Oroboros DND/Death/About death 1.md",
+    "Oroboros DND/Death/About death 2.md",
+    "Oroboros DND/Death/The Stream.md",
     "Oroboros DND/Characters/Aainaye.md",
-    "About death 1.md",
-    "The Stream.md",
-    "About death 2.md",
     "Aainaye Character.pdf",
     "Obsidian git help.md",
     "Oroboros/Oroboros DND/Characters/Lakshmi.md",
