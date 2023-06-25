@@ -23,10 +23,3 @@ They also refer often to the [[Soul]], instead of the person themselves.
 "It put my soul to rest."
 
 "I hope that your soul will send you to a path of serenity."
-
-## Technology
-The major technology that they develop is in the form of "solar energy", specifically [[sapling torches]]. They believe it to be [[Soul]] of the [[fire]] nature that is infused with [[wood]] [[soul]].
-
-
-## Soul 
-most people are either [[fire]] or [[wood]].
