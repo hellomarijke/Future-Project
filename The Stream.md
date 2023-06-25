@@ -1,0 +1,1 @@
+Aainaye is from a region where they helt, like all other cultures, certain beliefs about dying and death.

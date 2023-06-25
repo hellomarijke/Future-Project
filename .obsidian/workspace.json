@@ -26,9 +26,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76df35ba5c47f416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About death 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ac534a94e61ad98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "About death 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ed9fc2706668b1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Stream.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -113,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md",
+                "file": "The Stream.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md",
+                "file": "The Stream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md"
+                "file": "The Stream.md"
               }
             }
           }
@@ -163,14 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe4decdb711c6c05",
+  "active": "4ed9fc2706668b1a",
   "lastOpenFiles": [
+    "Oroboros DND/Characters/Aainaye.md",
+    "About death 1.md",
+    "The Stream.md",
+    "About death 2.md",
+    "Aainaye Character.pdf",
     "Obsidian git help.md",
     "Oroboros/Oroboros DND/Characters/Lakshmi.md",
-    "Aainaye Character.pdf",
     "Oroboros DND/Characters/Rishi.md",
     "Oroboros DND/Characters/Lakshmi.md",
-    "Oroboros DND/Characters/Aainaye.md",
     "Oroboros DND/Characters",
     "Oroboros DND",
     "Oroboros/Oroboros DND/Characters/Rishi.md",
