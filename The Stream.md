@@ -1,1 +1,3 @@
-Aainaye is from a region where they helt, like all other cultures, certain beliefs about dying and death.
+Aainaye is from a region where they held, like all other cultures, certain beliefs about dying and death. In this culture, they called death The Stream, refering to a large body of water where all live begins and ends, and where everything is connected. 
+
+When alive, it was also believed that one was still a part of this Stream (as everything was believed to be connected), though upon dying one would return to their previous form of energy and be able to float in this Stream
