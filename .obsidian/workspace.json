@@ -57,18 +57,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian git help.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d35d620a0d6a999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
@@ -76,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,19 +199,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d35d620a0d6a999",
+  "active": "4ed9fc2706668b1a",
   "lastOpenFiles": [
-    "Obsidian git help.md",
-    "conflict-files-obsidian-git.md",
     "Oroboros DND/Death/About death 1.md",
+    "DM Notes/Days of the week/Days of the week.md",
+    "conflict-files-obsidian-git.md",
+    "DM Notes/Days of the week/Dog day.md",
     "DM Notes/Days of the week/Snake day.md",
     "DM Notes/Days of the week/Pig day.md",
     "DM Notes/Days of the week/Monkey day.md",
     "DM Notes/Days of the week/Horse day.md",
     "DM Notes/Days of the week/Goat day.md",
     "DM Notes/Days of the week/Dragon day.md",
-    "DM Notes/Days of the week/Dog day.md",
-    "DM Notes/Days of the week/Days of the week.md",
     "DM Notes/Days of the week",
     "DM Notes",
     "Oroboros DND/Death/About death 2.md",
@@ -231,6 +218,7 @@
     "Oroboros DND/Death",
     "Oroboros DND/Characters/Aainaye.md",
     "Aainaye Character.pdf",
+    "Obsidian git help.md",
     "Oroboros/Oroboros DND/Characters/Lakshmi.md",
     "Oroboros DND/Characters/Rishi.md",
     "Oroboros DND/Characters/Lakshmi.md",
