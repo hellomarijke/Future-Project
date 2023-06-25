@@ -62,9 +62,32 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ba369c88cfbcedf",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/obsidian-git/data.json",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "3b33ae816f5423df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian git help.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian git help.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian git help.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -199,7 +222,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4ed9fc2706668b1a",
+  "active": "3b33ae816f5423df",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Obsidian git help.md",
