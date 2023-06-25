@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Oroboros DND/Death/About death 1.md",
+                "file": "DM Notes/Days of the week/Days of the week.md",
                 "mode": "source",
                 "source": false
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oroboros DND/Death/About death 1.md",
+                "file": "DM Notes/Days of the week/Days of the week.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oroboros DND/Death/About death 1.md",
+                "file": "DM Notes/Days of the week/Days of the week.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oroboros DND/Death/About death 1.md"
+                "file": "DM Notes/Days of the week/Days of the week.md"
               }
             }
           }
@@ -199,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c8141b6920d2502",
+  "active": "4ed9fc2706668b1a",
   "lastOpenFiles": [
+    "Oroboros DND/Death/About death 1.md",
     "DM Notes/Days of the week/Snake day.md",
     "DM Notes/Days of the week/Pig day.md",
     "DM Notes/Days of the week/Monkey day.md",
@@ -214,7 +215,6 @@
     "Oroboros DND/Death/About death 2.md",
     "Oroboros DND/Death/The Stream.md",
     "Oroboros DND/Death",
-    "Oroboros DND/Death/About death 1.md",
     "Oroboros DND/Characters/Aainaye.md",
     "Aainaye Character.pdf",
     "Obsidian git help.md",
