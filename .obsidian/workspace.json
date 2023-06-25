@@ -57,37 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian git help.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ba369c88cfbcedf",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": true
-              }
-            }
-          },
-          {
-            "id": "3b33ae816f5423df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Gulmohar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -172,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Gulmohar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Gulmohar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Gulmohar.md"
               }
             }
           }
@@ -222,36 +199,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b33ae816f5423df",
+  "active": "4ed9fc2706668b1a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Eastern Root Split village.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Kirpans of water.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Eastern Root Gate City.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Eastern Root.md",
+    "DM Notes/Images/Pasted image 20230305201540.png",
+    "DM Notes/Images",
+    "DM Notes/New folder",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Arrowhead province.md",
     "Obsidian git help.md",
-    "Oroboros DND/Death/About death 1.md",
-    "DM Notes/Days of the week/Snake day.md",
-    "DM Notes/Days of the week/Pig day.md",
-    "DM Notes/Days of the week/Monkey day.md",
-    "DM Notes/Days of the week/Horse day.md",
-    "DM Notes/Days of the week/Goat day.md",
-    "DM Notes/Days of the week/Dragon day.md",
-    "DM Notes/Days of the week/Dog day.md",
-    "DM Notes/Days of the week/Days of the week.md",
-    "DM Notes/Days of the week",
-    "DM Notes",
-    "Oroboros DND/Death/About death 2.md",
-    "Oroboros DND/Death/The Stream.md",
-    "Oroboros DND/Death",
-    "Oroboros DND/Characters/Aainaye.md",
-    "Aainaye Character.pdf",
-    "Oroboros/Oroboros DND/Characters/Lakshmi.md",
-    "Oroboros DND/Characters/Rishi.md",
-    "Oroboros DND/Characters/Lakshmi.md",
-    "Oroboros DND/Characters",
-    "Oroboros DND",
-    "Oroboros/Oroboros DND/Characters/Rishi.md",
-    "Oroboros/Oroboros DND/Characters/Aainaye.md",
-    "Oroboros/Oroboros DND/Characters",
-    "Oroboros/Aainaye Character.pdf",
-    "Oroboros/Oroboros DND",
-    "Oroboros"
+    "conflict-files-obsidian-git.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Trading guild.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Silk work.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Postal service for Adventurers!.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Mahogany Maya's Milling Mansion.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Magical shop Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Artisanal district, Kalainjar.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Gemstone cutter.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Arivin ilaigal.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Living district, Rehayashi.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Political district, Siyasi.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Kirpan Square.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Entertainment district Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Slums.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
+    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root Split village.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
+    "DM Notes/Locations/1. Vriksha Rajya/Western Root",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
+    "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
+    "DM Notes/Locations/1. Vriksha Rajya",
+    "DM Notes/Locations"
   ]
 }
