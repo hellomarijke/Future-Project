@@ -50,9 +50,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "181dd0501f6e08cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Notes/Locations/1. Vriksha Rajya/split cities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b1e2e06dc2273a6d",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "75d488fcda34e639",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Eastern Root Split village.md",
+                "staged": true
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -137,7 +171,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oroboros DND/Death/About death 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +187,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oroboros DND/Death/About death 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Oroboros DND/Death/About death 2.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -187,36 +217,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ac534a94e61ad98",
+  "active": "75d488fcda34e639",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Oroboros DND/Death/About death 1.md",
-    "DM Notes/Days of the week/Days of the week.md",
-    "DM Notes/Days of the week/Dog day.md",
-    "DM Notes/Days of the week/Snake day.md",
-    "DM Notes/Days of the week/Pig day.md",
-    "DM Notes/Days of the week/Monkey day.md",
-    "DM Notes/Days of the week/Horse day.md",
-    "DM Notes/Days of the week/Goat day.md",
-    "DM Notes/Days of the week/Dragon day.md",
-    "DM Notes/Days of the week",
-    "DM Notes",
+    "DM Notes/Locations/1. Vriksha Rajya/split cities.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Vriksha Rajya.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Vrikshiya.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Living district, Rehayashi.md",
+    "Tala Archipelago.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Eastern Root.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Arrowhead province.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Trading guild.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Artisanal district, Kalainjar.md",
+    "DM Notes/Images/Pasted image 20230305201540.png",
     "Oroboros DND/Death/About death 2.md",
-    "Oroboros DND/Death/The Stream.md",
-    "Oroboros DND/Death",
-    "Oroboros DND/Characters/Aainaye.md",
-    "Aainaye Character.pdf",
-    "Obsidian git help.md",
-    "Oroboros/Oroboros DND/Characters/Lakshmi.md",
-    "Oroboros DND/Characters/Rishi.md",
-    "Oroboros DND/Characters/Lakshmi.md",
-    "Oroboros DND/Characters",
-    "Oroboros DND",
-    "Oroboros/Oroboros DND/Characters/Rishi.md",
-    "Oroboros/Oroboros DND/Characters/Aainaye.md",
-    "Oroboros/Oroboros DND/Characters",
-    "Oroboros/Aainaye Character.pdf",
-    "Oroboros/Oroboros DND",
-    "Oroboros"
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Political district, Siyasi.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Kirpan Square.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Harbor District Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Entertainment district Chandrakona.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Chandrakona Slums.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar",
+    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root Split village.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Southern Root Split village.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Eastern Root Gate City.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root/Sangri-La Mountain range.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Northern Root Split village.md",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona",
+    "DM Notes/Locations/1. Vriksha Rajya/Western Root",
+    "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
+    "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
+    "DM Notes/Locations/1. Vriksha Rajya",
+    "DM Notes/Locations",
+    "DM Notes/Images",
+    "DM Notes/Days of the week"
   ]
 }
