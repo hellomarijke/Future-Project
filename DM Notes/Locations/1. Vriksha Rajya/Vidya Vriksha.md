@@ -11,7 +11,7 @@ In the middle of the [[Vriksha Rajya]], lies a tree that spans the continent. Th
 
 Only parts of the tree that fell off naturally are allowed to be used for other purposes legally
 
-Vidya Vriksha is a city in and of itself. From the outside, you see that the leaves shine with an almost fluorescent nature to them. In the night, the leaves turn this somewhat gold coloration. The inside looks like a hollowed out tree with different tree houses on the interior walls of the tree. The people of tree have learned to work with solar energy. The tree that is on the inside sometimes drops seeds. There a cultivated in saplings that have been used as torches. A lot of the infrastructure around [[Locations/Continent/1. Vriksha Rajya/Vriksha Rajya]] uses there [[sapling torches]] to create light. Similarly to the tree, they need to absorb sunlight during the days and then exert sunlight in the night. Whenever there was a storm or it was particularly cloudy, then the tree glows dimly.
+Vidya Vriksha is a city in and of itself. From the outside, you see that the leaves shine with an almost fluorescent nature to them. In the night, the leaves turn this somewhat gold coloration. The inside looks like a hollowed out tree with different tree houses on the interior walls of the tree. The people of tree have learned to work with solar energy. The tree that is on the inside sometimes drops seeds. There a cultivated in saplings that have been used as torches. A lot of the infrastructure around [[Vriksha Rajya]] uses there [[sapling torches]] to create light. Similarly to the tree, they need to absorb sunlight during the days and then exert sunlight in the night. Whenever there was a storm or it was particularly cloudy, then the tree glows dimly.
 
 
 

@@ -6,7 +6,7 @@ Status: 7%
 
 #Group #NPC #VrikshaRajya
 
-Vrikshiya is the name for those who are citizen of [[Locations/Continent/1. Vriksha Rajya/Vriksha Rajya]]. Loosely translated, it means "people of the tree", referring to the [[Vidya Vriksha]].
+Vrikshiya is the name for those who are citizen of [[Vriksha Rajya]]. Loosely translated, it means "people of the tree", referring to the [[Vidya Vriksha]].
 
 
 ## Cultures
