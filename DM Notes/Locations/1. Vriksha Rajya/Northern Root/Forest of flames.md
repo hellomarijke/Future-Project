@@ -9,4 +9,3 @@ Status: Initial Idea
 
 The forest of flames is a forest that primarily has a red hue in the trees, like the gulmohar tree.
 
-This is also where the [[Goblin camp in forest of flames]] is located.

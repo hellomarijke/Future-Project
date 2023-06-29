@@ -6,12 +6,12 @@ Status: 16%
 
 #History  #VrikshaRajya
 
-In the middle of the [[Locations/Continent/1. Vriksha Rajya/Vriksha Rajya]], lies a tree that spans the continent. The tree's roots are visible from on the roads and the native people have decided to take it as waymarkers, making getting lost harder. Cities are found around the roots and have cleverly used the big roots to their advantage. One city uses the loop that the root has made as their city walls. Up above there are lights that are visible. Aside from that, it is possible to move under the root to go inside the city.
+In the middle of the [[Vriksha Rajya]], lies a tree that spans the continent. The tree's roots are visible from on the roads and the native people have decided to take it as waymarkers, making getting lost harder. Cities are found around the roots and have cleverly used the big roots to their advantage. One city uses the loop that the root has made as their city walls. Up above there are lights that are visible. Aside from that, it is possible to move under the root to go inside the city.
 
 
 Only parts of the tree that fell off naturally are allowed to be used for other purposes legally
 
-Vidya Vriksha is a city in and of itself. From the outside, you see that the leaves shine with an almost fluorescent nature to them. In the night, the leaves turn this somewhat gold coloration. The inside looks like a hollowed out tree with different tree houses on the interior walls of the tree. The people of tree have learned to work with solar energy. The tree that is on the inside sometimes drops seeds. There a cultivated in saplings that have been used as torches. A lot of the infrastructure around [[Locations/Continent/1. Vriksha Rajya/Vriksha Rajya]] uses there [[sapling torches]] to create light. Similarly to the tree, they need to absorb sunlight during the days and then exert sunlight in the night. Whenever there was a storm or it was particularly cloudy, then the tree glows dimly.
+Vidya Vriksha is a city in and of itself. From the outside, you see that the leaves shine with an almost fluorescent nature to them. In the night, the leaves turn this somewhat gold coloration. The inside looks like a hollowed out tree with different tree houses on the interior walls of the tree. The people of tree have learned to work with solar energy. The tree that is on the inside sometimes drops seeds. There a cultivated in saplings that have been used as torches. A lot of the infrastructure around [[Vriksha Rajya]] uses there [[sapling torches]] to create light. Similarly to the tree, they need to absorb sunlight during the days and then exert sunlight in the night. Whenever there was a storm or it was particularly cloudy, then the tree glows dimly.
 
 
 
