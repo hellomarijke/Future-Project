@@ -6,6 +6,8 @@ Aainaye woke up in a cavern deep underground, around 2 years ago. They didn't kn
 
 Currently, their body is void of any skin, their bones on full display and covered in dust and bright purple fungi, feeding of the calcium still present in the bones. They almost seem to be "pulsating". There is nothing on them, just two holes where their eyes should have been, and the world is blacker than any void Aainaye can imagine. What is more, the fungi whisper to them, as if they are Aainaye. And Aainaye answers.
 
+They are carrying two items: a hairpin in the form of a lotus, and a sword. (magical items)
+
 ==**General characteristics**==
 
 **Themes**: Identity, life/death
