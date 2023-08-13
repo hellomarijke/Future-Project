@@ -26,7 +26,7 @@ However, they are not scared of death (The Stream) itself. What happened did not
 **Name**: Aainaye
 **Appearance**: Skeleton
 **Gender**: Unknown
-**Race**: Skeleton (Undead)
+**Race**: Skeleton (Undead - part of the System, therefore not considered undead)
 **Class**: Druid
 **Theme song**: Aainaye by Mathieu Saïkaly
 
@@ -50,8 +50,8 @@ However, they are not scared of death (The Stream) itself. What happened did not
 **Secrets**: It becomes obvious Aainaye is murdered, but they simply tell people they died. When people ask how they died, they shrug.
 **Quirks**: 
 - Wants to know everyone's eyecolour (and writes them down in their logbook), because eyes are the mirrors of life and Aainaye doesn't have them (but greatly wishes to; see desires).  Therefore, they have an obsession with colorful buttons and try to put them in their eyesockets to create the "illusion" to have eyes.
-- They also love children and animals, because they believe they don't judge by appearance as much (which is actually not true and often scarws them away)
-- They are blind (since they don't have eyes) but can "see" through the whispers of the funghi, which they call The System.
+- They also love children and animals, because they believe they don't judge by appearance as much - though the opposite most often happens
+- They are blind (since they don't have eyes) but can "see" through the whispers of the funghi, which they call The System.Aainaye is part of this system and doesn't exactly know where the fungi begin and/or end. Therefore, they are not necessarily considered undead.
 - Often dislocates or even loses their left arm - did something happen to it when they were still alive?
 
 ==**Mental characteristics**
