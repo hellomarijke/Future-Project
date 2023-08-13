@@ -2,9 +2,9 @@
 
 It is the 9th day of the Howling Moon when something that is long dead awakens from its centuries-long slumber. Above ground it is sweltering hot in the Al-Maghrib Al-Wafir desert, but deep below the surface water runs free through the dark maze of an immense cave system. It is there that Aainaye, still nameless then, wakes up - confused, a little stiff, but with an immediate sense of curiousity. The only thing they have with them is a ==xxx sword==, imbued with xxx and xxx, and a hairpin in the shape of a Lotus. [More info on items]
 
-Through the maze, they find their way to an underground clearing and through a small opening in the wall they experience sunlight for the first time in hundreds of years. It is also the first time Aainaye is able to notice their appearance - and discover they look different then before. But how they used to look as something that Aainaye quickly start describing as "Before", they don't know. In fact, they don't know anything about Before, or when Before even is and was.
+Aainaye woke up in a cavern deep underground, around 2 years ago. They didn't know why they woke up, what their name was, what their past lives and selves were like, or even that they were dead to begin with. Through the maze, they find their way to an underground clearing and through a small opening in the wall they experience sunlight for the first time in hundreds of years. It is also the first time Aainaye is able to notice their appearance - and discover they look different than before. But how they used to look as something that Aainaye quickly start describing as "Before", they don't know. In fact, they don't know anything about Before, or when Before even is and was. 
 
-Currently, their body is void of any skin, their bones on full display and covered in dust and fungi, feeding of the calcium still present in the bones. There is nothing on them, just two holes where their eyes should have been, and the world is blacker than any void Aainaye can imagine. What is more, the fungi whisper to them. And Aainaye answers.
+Currently, their body is void of any skin, their bones on full display and covered in dust and bright purple fungi, feeding of the calcium still present in the bones. They almost seem to be "pulsating". There is nothing on them, just two holes where their eyes should have been, and the world is blacker than any void Aainaye can imagine. What is more, the fungi whisper to them, as if they are Aainaye. And Aainaye answers.
 
 ==**General characteristics**==
 
@@ -42,6 +42,10 @@ However, they are not scared of death (The Stream) itself. What happened did not
 
 **Primary objective**: Unravelling their identity. Who were they and who are they now? In order to know who they are now, they want to know who they were - this also includes exploring the world as it is compared to finding clues as to how it was before.
 **Secondary objective**: This leads to the secondary objective: wanting to find out how they exactly died, who killed them, and why.
+
+In short: 
+Primary objective: unravelling their identity. Who are they now? Who were they before? 
+Secondary objective: Who killed them, how did they die? And why?
 
 **Fears**: 
 - Themselves. Are they now who they were before? Would the before-them be disappointed in the now-them, or would the now-them be disappointed before-them?
