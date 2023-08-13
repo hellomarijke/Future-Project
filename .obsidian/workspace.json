@@ -67,9 +67,11 @@
             "id": "533030db8fea975c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Aainaye Character.pdf"
+                "file": "Oroboros DND/Characters/Aainaye.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -159,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aainaye Character.pdf",
+                "file": "Oroboros DND/Characters/Aainaye.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aainaye Character.pdf",
+                "file": "Oroboros DND/Characters/Aainaye.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aainaye Character.pdf"
+                "file": "Oroboros DND/Characters/Aainaye.md"
               }
             }
           }
@@ -211,6 +213,7 @@
   },
   "active": "533030db8fea975c",
   "lastOpenFiles": [
+    "Aainaye Character.pdf",
     "DM Notes/Locations/1. Vriksha Rajya/Vriksha Rajya.md",
     "DM Notes/Images/Pasted image 20230310014447.png",
     "DM Notes/Images/Pasted image 20230125144518.png",

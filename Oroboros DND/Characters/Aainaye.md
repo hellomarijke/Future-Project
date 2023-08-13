@@ -56,7 +56,7 @@ However, they are not scared of death (The Stream) itself. What happened did not
 
 ==**Mental characteristics**
 
-**Known languages**: Common and Old Language
+**Known languages**: Common, druidic and Old Language
 **Lures (what is your character drawn to?)**: Everything related to the circle of life and death - from living things such as animals, funghi, and plants, to dead things.
 **Savvies (what are they familiar with and/or very good at doing?)**:
 **Ineptities (what are they simply unable to understand?)**: How others can be so worried about death.
