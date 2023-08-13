@@ -67,11 +67,9 @@
             "id": "533030db8fea975c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md",
-                "mode": "source",
-                "source": false
+                "file": "Aainaye Character.pdf"
               }
             }
           }
@@ -161,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md",
+                "file": "Aainaye Character.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md",
+                "file": "Aainaye Character.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Oroboros DND/Characters/Aainaye.md"
+                "file": "Aainaye Character.pdf"
               }
             }
           }
@@ -213,6 +211,7 @@
   },
   "active": "533030db8fea975c",
   "lastOpenFiles": [
+    "Oroboros DND/Characters/Aainaye.md",
     "Aainaye Character.pdf",
     "DM Notes/Locations/1. Vriksha Rajya/Vriksha Rajya.md",
     "DM Notes/Images/Pasted image 20230310014447.png",
@@ -254,7 +253,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Western Root",
     "DM Notes/Locations/1. Vriksha Rajya/Southern Root",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root",
-    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root",
-    "DM Notes/Locations/1. Vriksha Rajya"
+    "DM Notes/Locations/1. Vriksha Rajya/Eastern Root"
   ]
 }

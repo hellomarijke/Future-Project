@@ -55,7 +55,7 @@ Secondary objective: Who killed them, how did they die? And why?
 **Quirks**: 
 - Wants to know everyone's eyecolour (and writes them down in their logbook), because eyes are the mirrors of life and Aainaye doesn't have them (but greatly wishes to; see desires).  Therefore, they have an obsession with colorful buttons and try to put them in their eyesockets to create the "illusion" to have eyes.
 - They also love children and animals, because they believe they don't judge by appearance as much - though the opposite most often happens
-- They are blind (since they don't have eyes) but can "see" through the whispers of the funghi, which they call The System.Aainaye is part of this system and doesn't exactly know where the fungi begin and/or end. Therefore, they are not necessarily considered undead.
+- The fungi whisper to them, which Aainaye call The System. Aainaye is part of this system and doesn't exactly know where the fungi begin and/or end. Therefore, they are not necessarily considered undead and "functions" normally (e.g. being able to see, feel, hurt, etc.). Aainaye is genderless and refers to themselves as "we" whenever they talk.Therefore, they are not necessarily considered undead.
 - Often dislocates or even loses their left arm - did something happen to it when they were still alive?
 
 ==**Mental characteristics**
