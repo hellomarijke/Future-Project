@@ -55,11 +55,10 @@
             "id": "4ed9fc2706668b1a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Aainaye charactersheet updated.md",
-                "mode": "source",
-                "source": false
+                "file": "Oroboros DND/Characters/Aainaye.md",
+                "staged": false
               }
             }
           }
@@ -149,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aainaye charactersheet updated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aainaye charactersheet updated.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Aainaye charactersheet updated.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -201,13 +196,16 @@
   },
   "active": "4ed9fc2706668b1a",
   "lastOpenFiles": [
-    "Tala Archipelago.md",
-    "Obsidian git help.md",
-    "Aainaye charactersheet updated.md",
-    "Aainaye Character.pdf",
-    "Oroboros DND/Characters/Lakshmi.md",
-    "Oroboros DND/Characters/Rishi.md",
+    "Oroboros DND/Death/About death 2.md",
     "Oroboros DND/Death/About death 1.md",
+    "Oroboros DND/Death/The Stream.md",
+    "Oroboros DND/Characters/Rishi.md",
+    "Oroboros DND/Characters/Lakshmi.md",
+    "Oroboros DND/Characters/Aainaye.md",
+    "Tala Archipelago.md",
+    "Aainaye charactersheet updated.md",
+    "Obsidian git help.md",
+    "Aainaye Character.pdf",
     "DM Notes/Locations/1. Vriksha Rajya/Northern Root/Forest of flames.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Political district, Siyasi.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Market district.md",
@@ -225,9 +223,6 @@
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Gemstone cutter.md",
     "DM Notes/Locations/1. Vriksha Rajya/Eastern Root/Chandrakona/Artisanal district, Kalainjar/Arivin ilaigal.md",
     "DM Notes/Locations/1. Vriksha Rajya/Vidya Vriksha.md",
-    "DM Notes/Locations/1. Vriksha Rajya/split cities.md",
-    "DM Notes/Locations/1. Vriksha Rajya/gate cities.md",
-    "DM Notes/Locations/1. Vriksha Rajya/Western Root/Western Root.md",
     "DM Notes/Images/Pasted image 20230305201540.png",
     "DM Notes/Images",
     "DM Notes/New folder",
