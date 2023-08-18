@@ -16,8 +16,21 @@
                 "file": "Aainaye Character.pdf"
               }
             }
+          },
+          {
+            "id": "826aed3a1805e279",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to PUSH and PULL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How to PUSH and PULL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "How to PUSH and PULL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "How to PUSH and PULL.md"
+              }
             }
           }
         ],
@@ -148,10 +165,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "17c1c7cca8aa3188",
+  "active": "826aed3a1805e279",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Aainaye Character.pdf",
+    "How to PUSH and PULL.md",
+    "conflict-files-obsidian-git.md",
     "DM Notes/The Calendar/The Quantum Moon.md",
     "DM Notes/The Calendar/The Moon of the Waves.md",
     "DM Notes/The Calendar/The Moon of the Tree.md",
@@ -178,7 +196,6 @@
     "DM Notes/Mechanics/Alignment.md",
     "DM Notes/Mechanics",
     "Aainaye charactersheet updated.md",
-    "Oroboros DND/Characters/Lakshmi.md",
     "Untitled",
     "DM Notes/Images/Pasted image 20230310014447.png",
     "DM Notes/Images/Pasted image 20230125144518.png",
