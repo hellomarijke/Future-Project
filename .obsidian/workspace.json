@@ -67,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5e2f9d0f3bcd2bec",
@@ -137,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -153,7 +152,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33e624aef1dcc154",
+  "active": "8db2c137f1c17fd6",
   "lastOpenFiles": [
     "Aainaye charactersheet updated.md",
     "Aainaye Character.pdf",
